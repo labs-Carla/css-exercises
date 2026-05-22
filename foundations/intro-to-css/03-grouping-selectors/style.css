@@ -1,6 +1,6 @@
 /* Add CSS Styling */
 
-button {
+.black, .yellow {
     font-size: 28px;
     font-family: Helvetica, Times New Roman, sans-serif;
 }
@@ -12,5 +12,4 @@ button {
 
 .yellow {
     background-color: yellow;
-    color: black;
 }
